@@ -1,0 +1,6 @@
+My hypothesis states that there is  a strong postive correation between the 
+adaption of RNA viruses due to environmental changes
+
+setwd('C:\\Users\\isiaa\\Evolution\\Tasks\\Project')
+
+Data <- read.csv('data.csv.csv', stringsAsFactors=F)
